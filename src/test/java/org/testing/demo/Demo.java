@@ -9,9 +9,9 @@ public void Demoresult() {
 	String use = "False";
 	
 	if (use == "False") {
-		int a = 1;
-		int b = 2;
-		int c = a+b;
+		int a = 40;
+		int b = 20;
+		int c = a*b;
 		System.out.println(c);
 	}
 	else {
