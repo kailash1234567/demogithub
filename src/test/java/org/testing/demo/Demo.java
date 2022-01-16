@@ -10,7 +10,7 @@ public void Demoresult() {
 	
 	if (use == "False") {
 		int a = 42;
-		int b = 20;
+		int b = 23;
 		int c = a*b;
 		System.out.println(c);
 	}
