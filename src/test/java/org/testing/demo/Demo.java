@@ -6,9 +6,9 @@ import org.testng.annotations.Test;
 public class Demo {
 public void Demoresult() {
 	
-	String use = "Yes";
+	String use = "Y";
 	
-	if (use == "Yes") {
+	if (use == "Y") {
 		int a = 1;
 		int b = 2;
 		int c = a+b;
