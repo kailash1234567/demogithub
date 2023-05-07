@@ -9,7 +9,7 @@ public void Demoresult() {
 	String use = "False";
 	
 	if (use == "False") {
-		int a = 11245;
+		int a = 1766;
 		int b = 1234;
 		int c = a*b;
 		System.out.println(c);
